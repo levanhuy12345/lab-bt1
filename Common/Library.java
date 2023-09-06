@@ -14,7 +14,6 @@ import java.util.Scanner;
  */
 
 
-
     public class Library {
 
     public int getInt(String promt, int m, int n) {
